@@ -1,0 +1,86 @@
+#header{
+	float: right;
+	height: 30px;
+	line-height: 30px;
+	margin: 10px 10px 0 0;
+}
+
+.header-item{
+	float: left;
+	margin-right: 10px;
+
+
+}
+
+.header-item.grid{
+	background-size: 92px 2541px;
+	background-image: url('https://ssl.gstatic.com/gb/images/v1_8758f7bb.png');
+	height: 30px;
+	width: 30px;
+	background-position: -35px -311px;
+	opacity: .55;
+
+}
+
+.header-item.bell{
+	background-size: 92px 2541px;
+	background-image: url('https://ssl.gstatic.com/gb/images/v1_8758f7bb.png');
+	background-position: -35px -1675px;
+	background-color: rgba(0,0,0,.55);
+    color: #fff;
+    margin: 5px 10px 5px 5px;
+    padding: 0 2px;
+    text-align: center;
+    box-sizing: border-box;
+    border-radius: 50%;
+    height: 20px;
+    width: 20px;
+
+}
+
+.header-item.letter{
+	background-image: url('https://lh5.googleusercontent.com/-7QnoLKC1b9g/AAAAAAAAAAI/AAAAAAAAAAA/AMW9Igf0Pxh6Qb79StrigkwHRXelaWrDDw/s32-c-mo/photo.jpg');
+	background-size: 30px 30px;
+	border-radius: 50%;
+    display: block;
+    overflow: hidden;
+    position: relative;
+    height: 32px;
+    width: 32px;
+    background-color: #aaa;
+	
+}
+
+#google-logo{
+	height: 231px;
+	text-align: center;
+	padding-top: 150px;
+}
+
+#search-form{
+	text-align: center;
+	position: relative;
+	margin:auto;
+	
+
+}
+
+input{
+	width: 670px;
+	height: 36px;
+	font-size: 18px;
+	padding-left: 5px;
+}
+
+#microphone{
+	position: absolute;
+	right: 660px;
+	top: 0px;
+	width: 20px;
+	height: 20px;
+}
+
+#microphone img{
+	width: 40px;
+	height: 40px;
+}
